@@ -4,12 +4,14 @@
   
 
 ### <div align="center">I'm Shreya Rangapure, a Passionate Full-Stack Developer 👨‍💻</div>  
+
+- Developer  [@CellStrat AI](https://cellstrathub.com/)
+    
+
+- Ex-Intern  [@Hattyhood](https://www.hattyhood.com)  
   
 
-- 🔭 Developer  [@Hattyhood](https://www.hattyhood.com)  
-  
-
-- 🌱 2nd Yr Undergraduate at BMS College of Engineering, Bangalore  
+- 3rd Yr Undergraduate at BMS College of Engineering, Bangalore  
   
 
 <br/> 
