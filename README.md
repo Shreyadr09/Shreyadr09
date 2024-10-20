@@ -24,13 +24,6 @@
 <a href="https://www.terraform.io/" target="_blank" rel="noreferrer"> 
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" alt="terraform" width="40" height="40"/> 
 </a>
-<a href="https://aws.amazon.com/ecr/" target="_blank" rel="noreferrer"> 
-  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-by-Amazon-Web-Services_white.73eecac8f40b3ae84bdcf1449c4c3d03.png" alt="aws-ecr" width="40" height="40"/> 
-</a>
-<a href="https://aws.amazon.com/s3/" target="_blank" rel="noreferrer"> 
-  <img src="https://d1.awsstatic.com/logos/aws-logo-lockups/poweredbyaws/Powered-by-Amazon-Web-Services_white.73eecac8f40b3ae84bdcf1449c4c3d03.png" alt="aws-s3" width="40" height="40"/> 
-</a>
-
  </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shreyadr09&show_icons=true&locale=en&layout=compact" alt="shreyadr09" /></p>
