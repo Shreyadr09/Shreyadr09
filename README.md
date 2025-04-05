@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Shreya Rangapure</h1>
-<h3 align="center">I'm a seasoned Full Stack Developer deeply passionate about crafting exceptional digital experiences. Equipped with a robust knowledge of DevOps methodologies and a keen eye for UI/UX design, I thrive on building elegant solutions that seamlessly blend form and function. From backend wizardry to frontend finesse and Android app wizardry, I'm committed to delivering top-notch results. Let's connect and innovate together!</h3>
+<h3 align="center">I find joy in transforming complex problems into simple solutions. Whether it's optimizing code or collaborating with peers, I'm always eager to learn and grow. Building reliable software isn't just my job—it's what I love to do.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyadr09&label=Profile%20views&color=0e75b6&style=flat" alt="shreyadr09" /> </p>
 
