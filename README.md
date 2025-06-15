@@ -3,6 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shreyadr09&label=Profile%20views&color=0e75b6&style=flat" alt="shreyadr09" /> </p>
 
+- SDE Intern [@ Amazon](https://aws.amazon.com/)
 
 - Full Stack Developer [@ CellStrat AI](https://cellstrathub.com)
 
