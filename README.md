@@ -5,10 +5,6 @@
 
 - SDE Intern [@ Amazon](https://aws.amazon.com/)
 
-- Full Stack Developer [@ CellStrat AI](https://cellstrathub.com)
-
-- Ex DevOps Intern [@ Hattyhood](https://hattyhood.com)
-
 - 📫 How to reach me shreyadr09@gmail.com
 
 <h3 align="left">Connect with me:</h3>
